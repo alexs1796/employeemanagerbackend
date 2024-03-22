@@ -1,0 +1,21 @@
+{
+    "email" : "Christine@learnJava.com",
+    "imageUrl" : "https://bootdey.com/img/content/avatar/avatar3.png",
+    "jobTitle" : "UX/UI designer",
+    "name" : "Christine Smith",
+    "phoneNumber" : "4577837483443"
+}
+{
+    "email" : "George@learnJava.com",
+    "imageUrl" : "https://bootdey.com/img/content/avatar/avatar1.png",
+    "jobTitle" : "Web designer",
+    "name" : "George Smith",
+    "phoneNumber" : "4567876876483443"
+}
+{
+    "email" : "John@learnJava.com",
+    "imageUrl" : "https://bootdey.com/img/content/avatar/avatar5.png",
+    "jobTitle" : "Marketing Lead",
+    "name" : "Jonathan Smith",
+    "phoneNumber" : "45787889483443"
+}
